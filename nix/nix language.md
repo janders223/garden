@@ -55,7 +55,7 @@ date: 2021-07-25T18:58
             ```
     - <…> search path
         - developers are likely to have nixpkgs point to different revisions
-        - see [[e8929ee3]]
+        - see [[pinning nixpkgs]]
     - attr1 // attr2 merge operator
         - does not merge nested attributes sets
         - better to use `pkgs.lib.recursiveUpdate`

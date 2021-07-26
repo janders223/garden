@@ -1,0 +1,168 @@
+# It Doesn't Have to Be Crazy at Work
+
+## Jason Fried, David Heinemeier Hansson
+
+#books
+#kindle
+
+![](https://images-na.ssl-images-amazon.com/images/I/51nepS2j-UL._SL2000_.jpg)
+
+### Highlights from July 26, 2021
+
+- Sustained exhaustion is not a badge of honor, it’s a mark of stupidity. ([Location 94](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=94))
+    - **Tags:** #favorite, #blue
+- The answer isn’t more hours, it’s less bullshit. Less waste, not more production. And far fewer distractions, less always-on anxiety, and avoiding stress. ([Location 102](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=102))
+    - **Tags:** #blue
+- If it’s constantly crazy at work, we have two words for you: Fuck that. And two more: Enough already. ([Location 108](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=108))
+    - **Tags:** #blue
+- It begins with this idea: Your company is a product. ([Location 148](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=148))
+    - **Tags:** #blue
+- Yes, the things you make are products (or services), but your company is the thing that makes those things. That’s why your company should be your best product. ([Location 149](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=149))
+    - **Tags:** #blue
+- That, like product development, progress is achieved through iteration. ([Location 150](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=150))
+    - **Tags:** #blue
+- But when you think of the company as a product, you ask different questions: Do people who work here know how to use the company? Is it simple? Complex? Is it obvious how it works? What’s fast about it? What’s slow about it? Are there bugs? What’s broken that we can fix quickly and what’s going to take a long time? ([Location 155](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=155))
+    - **Tags:** #blue
+- Hustlemania has captured a monopoly on entrepreneurial inspiration. This endless stream of pump-me-up quotes about working yourself to the bone. It’s time to snap out of it. ([Location 184](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=184))
+    - **Tags:** #favorite, #blue
+- So you hereby have our permission to bury the hustle. To put in a good day’s work, day after day, but nothing more. You can play with your kids and still be a successful entrepreneur. You can have a hobby. You can take care of yourself physically. You can read a book. You can watch a silly movie with your partner. You can take the time to cook a proper meal. You can go for a long walk. You can dare to be completely ordinary every now and then. ([Location 201](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=201))
+    - **Tags:** #blue
+- Like they say, all’s fair in love and war. Except this isn’t love, and it isn’t war. It’s business. ([Location 213](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=213))
+    - **Tags:** #blue
+- Mark Twain nailed it: “Comparison is the death of joy.” We’re with Mark. ([Location 229](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=229))
+    - **Tags:** #favorite, #blue
+- Because at the end of the day, would you rather win an imaginary contest by throwing sand in your competitors’ faces or by simply forgetting about them and making the best damn product you know how? ([Location 235](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=235))
+    - **Tags:** #blue
+- We get how it works—we just don’t care. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=246))
+    - **Tags:** #blue
+- Because let’s face it: Goals are fake. Nearly all of them are artificial targets set for the sake of setting targets. ([Location 256](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=256))
+    - **Tags:** #blue
+- When you cut out what’s unnecessary, you’re left with what you need. And all you need is 8 hours a day for about 5 days a week. ([Location 351](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=351))
+    - **Tags:** #blue
+- Companies love to protect.
+  They guard so many things, but all too often they fail to protect what’s both most vulnerable and most precious: their employees’ time and attention. ([Location 356](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=356))
+    - **Tags:** #blue
+- Companies spend their employees’ time and attention as if there were an infinite supply of both. As if they cost nothing. Yet employees’ time and attention are among the scarcest resources we have. ([Location 357](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=357))
+    - **Tags:** #blue
+- Instead, we ask people to write updates daily or weekly on Basecamp for others to read when they have a free moment. This saves dozens of hours a week and affords people larger blocks of uninterrupted time. Meetings tend to break time into “before” and “after.” Get rid of those meetings and people suddenly have a good stretch of time to immerse themselves in their work. ([Location 364](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=364))
+    - **Tags:** #blue
+- It’s no wonder people are coming up short and are working longer hours, late nights, and weekends to make it up. Where else can they find the uninterrupted time? It’s sad to think that some people crave a commute because it’s the only time during the day they have to themselves. ([Location 370](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=370))
+    - **Tags:** #blue
+- There are lots of ways to slice 60 minutes. 1 × 60 = 60 2 × 30 = 60 4 × 15 = 60 25 + 10 + 5 + 15 + 5 = 60 All of the above equal 60, but they’re different kinds of hours entirely. The number might be the same, but the quality isn’t. The quality hour we’re after is 1 × 60. ([Location 375](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=375))
+    - **Tags:** #favorite, #blue
+- A fractured hour isn’t really an hour—it’s a mess of minutes. It’s really hard to get anything meaningful done with such crummy input. A quality hour is 1 × 60, not 4 × 15. A quality day is at least 4 × 60, not 4 × 15 × 4. ([Location 379](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=379))
+    - **Tags:** #blue
+- It’s hard to be effective with fractured hours, but it’s easy to be stressed out: 25 minutes on a phone call, then 10 minutes with a colleague who taps you on the shoulder, then 5 on this thing you’re supposed to be working on, before another 15 are burned on a conversation you got pulled into that really didn’t require your attention. Then you’re left with 5 more to do what you wanted to do. No wonder people who work like that can be short- or ill-tempered. ([Location 381](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=381))
+    - **Tags:** #blue
+- And between all those context switches and attempts at multitasking, you have to add buffer time. Time for your head to leave the last thing and get into the next thing. This is how you end up thinking “What did I actually do today?” when the clock turns to five and you supposedly spent eight hours at the office. You know you were there, but the hours had no weight, so they slipped away with nothing to show. ([Location 385](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=385))
+    - **Tags:** #favorite, #blue
+- Productivity is for machines, not for people. There’s nothing meaningful about packing some number of work units into some amount of time or squeezing more into less. ([Location 397](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=397))
+    - **Tags:** #blue
+- Yes, it’s perfectly okay to have nothing to do. Or, better yet, nothing worth doing. If you’ve only got three hours of work to do on a given day, then stop. Don’t fill your day with five more just to stay busy or feel productive. Not doing something that isn’t worth doing is a wonderful way to spend your time. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=405))
+    - **Tags:** #blue
+- A great work ethic isn’t about working whenever you’re called upon. It’s about doing what you say you’re going to do, putting in a fair day’s work, respecting the work, respecting the customer, respecting coworkers, not wasting time, not creating unnecessary work for other people, and not being a bottleneck. Work ethic is about being a fundamentally good person that others can count on and enjoy working with. ([Location 414](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=414))
+    - **Tags:** #blue
+- Ask people where they go when they really need to get something done. One answer you’ll rarely hear: the office. ([Location 425](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=425))
+    - **Tags:** #blue
+- Way too many people simply can’t get work done at work anymore. ([Location 428](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=428))
+    - **Tags:** #blue
+- It doesn’t make any sense. Companies pour gobs of money into buying or renting an office and filling it with desks, chairs, and computers. Then they arrange it all so that nobody can actually get anything done there. ([Location 429](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=429))
+    - **Tags:** #blue
+- Modern-day offices have become interruption factories. Merely walking in the door makes you a target for anyone else’s conversation, question, or irritation. When you’re on the inside, you’re a resource who can be polled, interrogated, or pulled into a meeting. And another meeting about that other meeting. How can you expect anyone to get work done in an environment like that? ([Location 431](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=431))
+    - **Tags:** #blue
+- The major distractions at work aren’t from the outside, they’re from the inside. The wandering manager constantly asking people how things are going, the meeting that accomplishes little but morphs into another meeting next week, the cramped quarters into which people are crammed like sardines, the ringing phones of the sales department, or the loud lunchroom down the hall from your desk. These are the toxic by-products of offices these days. ([Location 436](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=436))
+    - **Tags:** #blue
+- People aren’t working longer and later because there’s more work to do all of a sudden. People are working longer and later because they can’t get work done at work anymore! ([Location 442](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=442))
+    - **Tags:** #favorite, #blue
+- We have all sorts of experts at Basecamp. People who can answer questions about statistics, JavaScript event handling, database tipping points, network diagnostics, and tricky copyediting. If you work here and you need an answer, all you have to do is ping the expert. That’s wonderful. And terrible. It’s wonderful when the right answer unlocks insight or progress. But it’s terrible when that one expert is fielding their fifth random question of the day and suddenly the day is done. ([Location 446](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=446))
+    - **Tags:** #blue
+- The problem comes when you make it too easy—and always acceptable—to pose any question as soon as it comes to mind. Most questions just aren’t that pressing, but the urge to ask the expert immediately is irresistible. ([Location 451](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=451))
+    - **Tags:** #blue
+- Now, if the sole reason they work there is to answer questions and be available for everyone else all day long, well, then, okay, sounds good. But our experts have their own work to do, too. You can’t have both. ([Location 454](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=454))
+    - **Tags:** #blue
+- So we borrowed an idea from academia: office hours. All subject-matter experts at Basecamp now publish office hours. For some that means an open afternoon every Tuesday. For others it might be one hour a day. It’s up to each expert to decide their availability. ([Location 458](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=458))
+    - **Tags:** #blue
+- But what if you have a question on Monday and someone’s office hours aren’t until Thursday? You wait, that’s what you do. You work on something else until Thursday, or you figure it out for yourself before Thursday. Just like you would if you had to wait to talk to your professor. ([Location 460](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=460))
+    - **Tags:** #blue
+- The shared work calendar is one of the most destructive inventions of modern times. So much orbits around it, so much hinges on it, and so much is wrong because of it. ([Location 471](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=471))
+    - **Tags:** #blue
+- Taking someone’s time should be a pain in the ass. Taking many people’s time should be so cumbersome that most people won’t even bother to try it unless it’s REALLY IMPORTANT! Meetings should be a last resort, especially big ones. ([Location 482](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=482))
+    - **Tags:** #blue
+- If you don’t own the vast majority of your own time, it’s impossible to be calm. You’ll always be stressed out, feeling robbed of the ability to actually do your job. ([Location 487](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=487))
+    - **Tags:** #blue
+- If you can’t be bothered to schedule a meeting without software to do the work, just don’t bother at all. It probably wasn’t necessary in the first place. ([Location 491](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=491))
+    - **Tags:** #blue
+- As a general rule, nobody at Basecamp really knows where anyone else is at any given moment. Are they working? Dunno. Are they taking a break? Dunno. Are they at lunch? Dunno. Are they picking up their kid from school? Dunno. Don’t care. ([Location 494](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=494))
+    - **Tags:** #favorite, #blue
+- We don’t require anyone to broadcast their whereabouts or availability at Basecamp. No butts-in-seats requirement for people at the office, no virtual-status indicator when they’re working remotely. ([Location 496](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=496))
+    - **Tags:** #blue
+- “But how do you know if someone’s working if you can’t see them?” Same answer as this question: “How do you know if someone’s working if you can see them?” You don’t. The only way to know if work is getting done is by looking at the actual work. That’s the boss’s job. If they can’t do that job, they should find another one. ([Location 498](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=498))
+    - **Tags:** #blue
+- What if you need something from someone and you don’t know whether they’re available or not? Just ask them! If they respond, then you have what you needed. If they don’t, it’s not because they’re ignoring you—it’s because they’re working on something else at the moment. Respect that! Assume people are focused on their own work. ([Location 506](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=506))
+    - **Tags:** #favorite, #blue
+- Are there exceptions? Of course. It might be good to know who’s around in a true emergency, but 1 percent occasions like that shouldn’t drive policy 99 percent of the time. ([Location 508](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=508))
+    - **Tags:** #blue
+- The common thinking goes like this: If I can write you quickly, you can get back to me quickly, right? Technically, right. Practically, wrong. ([Location 521](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=521))
+    - **Tags:** #blue
+- Almost everything can wait. And almost everything should. ([Location 525](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=525))
+    - **Tags:** #blue
+- Fuck that. People should be missing out! Most people should miss out on most things most of the time. That’s what we try to encourage at Basecamp. JOMO! The joy of missing out. It’s JOMO that lets you turn off the firehose of information and chatter and interruptions to actually get the right shit done. It’s JOMO that lets you catch up on what happened today as a single summary email tomorrow morning rather than with a drip-drip-drip feed throughout the day. JOMO, baby, JOMO. ([Location 540](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=540))
+    - **Tags:** #blue
+- One way we push back against this at Basecamp is by writing monthly “Heartbeats.” Summaries of the work and progress that’s been done and had by a team, written by the team lead, to the entire company. All the minutiae boiled down to the essential points others would care to know. Just enough to keep someone in the loop without having to internalize dozens of details that don’t matter. ([Location 548](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=548))
+    - **Tags:** #blue
+- At many companies these days, people treat every detail at work like there’s going to be a pop quiz. They have to know every fact, every figure, every name, every event. This is a waste of brain power and an even more egregious waste of attention. ([Location 551](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=551))
+    - **Tags:** #blue
+- Companies love to declare “We’re all family here.” No, you’re not. Neither are we at Basecamp. We’re coworkers. That doesn’t mean we don’t care about one another. That doesn’t mean we won’t go out of our way for one another. We do care and we do help. But a family we are not. And neither is your business. ([Location 561](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=561))
+    - **Tags:** #blue
+- You don’t have to pretend to be a family to be courteous. Or kind. Or protective. All those values can be expressed even better in principles, policies, and, most important, actions. ([Location 571](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=571))
+    - **Tags:** #blue
+- The best companies aren’t families. They’re supporters of families. Allies of families. They’re there to provide healthy, fulfilling work environments so that when workers shut their laptops at a reasonable hour, they’re the best husbands, wives, parents, siblings, and children they can be. ([Location 576](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=576))
+    - **Tags:** #blue
+- Workaholism is a contagious disease. You can’t stop the spread if you’re the one bringing it into the office. Disseminate some calm instead. ([Location 593](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=593))
+    - **Tags:** #blue
+- When the boss says “My door is always open,” it’s a cop-out, not an invitation. One that puts the onus of speaking up entirely on the employees. ([Location 619](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=619))
+    - **Tags:** #favorite, #blue
+- The people who brag about trading sleep for endless slogs and midnight marathons are usually the ones who can’t point to actual accomplishments. Telling tales of endless slogs is a diversionary tactic. It’s pathetic. ([Location 684](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=684))
+    - **Tags:** #blue
+- Yes, sometimes you can do a quick sprint. Or burn a drop of the midnight oil just to get over the hump. But, man, is that a fine line cut with a thin razor. ([Location 698](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=698))
+    - **Tags:** #favorite, #blue
+- Balance is give and take. The typical corporate give-and-take is that life gives and work takes. If it’s easier for work to claim a Sunday than for life to borrow a Thursday, there ain’t no balance. ([Location 713](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=713))
+    - **Tags:** #blue
+- And it’s also why if you decide you want to take a Wednesday to hang with your kids, that’s cool, too. You don’t have to “make up” the day—just be responsible with your time and make sure your team knows when you won’t be around. It all rounds out in the end. ([Location 718](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=718))
+    - **Tags:** #blue
+- Talent isn’t worth fighting over. It’s not a fixed, scarce resource that either you have or you don’t. It rarely even transplants all that well. Someone who’s a superstar at one company often turns out to be completely ineffectual at another. Don’t go to war over talent. ([Location 781](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=781))
+    - **Tags:** #blue
+- For example, we found a wonderful designer in Oklahoma working for a newspaper, an awesome programmer in the rural outskirts of Toronto working at a small web design shop, and an outstanding customer service person in Tennessee working in a deli. On top of not considering provenance or location, we don’t consider formal education, either. We look at people’s actual work, not at their diploma or degree. ([Location 792](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=792))
+    - **Tags:** #blue
+- There’s an uncanny correlation between the companies with these kinds of benefits and the companies that can’t stop talking about the need to push work to the max. Dinners, lunches, game rooms, late nights—these mainly exist at companies that work 60-plus hours a week, not 40. Sounds more like bribes than benefits, doesn’t it? ([Location 865](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=865))
+    - **Tags:** #blue
+- In our office, if someone’s at their desk, we assume they’re deep in thought and focused on their work. That means we don’t walk up to them and interrupt them. It also means conversations should be kept to a whisper so as not to disturb anyone who could possibly hear you. Quiet runs the show. ([Location 907](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=907))
+    - **Tags:** #blue
+- Important topics need time, traction, and separation from the rest of the chatter. If something is being discussed in a chat room and it’s clearly too important to process one line at a time, we ask people to “write it up” instead. This goes together with the rule “If everyone needs to see it, don’t chat about it.” Give the discussion a dedicated, permanent home that won’t scroll away in five minutes. ([Location 985](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=985))
+    - **Tags:** #blue
+- Most deadlines aren’t so much deadlines as dreadlines. Unrealistic dates mired by ever-expanding project requirements. More work piles on but the timeline remains the same. That’s not work, that’s hell. ([Location 995](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=995))
+    - **Tags:** #blue
+- At Basecamp, we don’t dread the deadline, we embrace it. Our deadlines remain fixed and fair. They are fundamental to our process—and making progress. If it’s due on November 20, then it’s due on November 20. The date won’t move up and the date won’t move back. What’s variable is the scope of the problem—the work itself. But only on the downside. You can’t fix a deadline and then add more work to it. That’s not fair. Our projects can only get smaller over time, not larger. As we progress, we separate the must-haves from the nice-to-haves and toss out the nonessentials. ([Location 1000](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=1000))
+    - **Tags:** #blue
+- And who makes the decision about what stays and what goes in a fixed period of time? The team that’s working on it. Not the CEO, not the CTO. The team that’s doing the work has control over the work. They wield the “scope hammer,” as we call it. They can crush the big must-haves into smaller pieces and then judge each piece individually and objectively. Then they can sort, sift, and decide what’s worth keeping and what can wait. ([Location 1005](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=1005))
+    - **Tags:** #blue
+- Another way to think about our deadlines is that they’re based on budgets, not estimates. We’re not fans of estimates because, let’s face it, humans suck at estimating. But it turns out that people are quite good at setting and spending budgets. If we tell a team that they have six weeks to build a great calendar feature in Basecamp, they’re much more likely to produce lovely work than if we ask them how long it’ll take to build this specific calendar feature, and then break their weekends and backs to make it so. ([Location 1011](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=1011))
+    - **Tags:** #blue
+- At most companies, people put together a deck, reserve a conference room, and call a meeting to pitch a new idea. If they’re lucky, no one interrupts them while they’re presenting. (But usually someone jumps in and derails the presentation after two minutes.) When it’s over, people react. This is precisely the problem. ([Location 1026](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=1026))
+    - **Tags:** #favorite, #blue
+- We couldn’t come up with a good reason, so instead of shipping big software updates on Fridays, we now wait until Monday the following week to do it. Yes, this introduced other risks—if we somehow make a big mistake, we’re introducing it on the busiest day of the week. But knowing that also helps us be better prepared for the release. When there’s more at stake, you tend to measure twice, cut once. ([Location 1056](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=1056))
+    - **Tags:** #blue
+- Few question the assumption that a company should always strive to move in sync. Team A providing Team B with exactly what they need exactly when they need it. All lined up, beautifully choreographed. But such a ballet of interdependence is a performance we’d rather skip. ([Location 1099](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=1099))
+    - **Tags:** #blue
+- Dependencies are tangled, intertwined teams, groups, or individuals that can’t move independently of one another. Whenever someone is waiting on someone else, there’s a dependency in the way. ([Location 1103](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=1103))
+    - **Tags:** #blue
+- “Doing nothing isn’t an option.” Oh, yes, it is. And it’s often the best one. “Nothing” should always be on the table. ([Location 1184](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=1184))
+    - **Tags:** #blue
+- Change makes things worse all the time. It’s easier to fuck up something that’s working well than it is to genuinely improve it. But we commonly delude ourselves into thinking that more time, more investment, more attention is always going to win. ([Location 1186](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=1186))
+    - **Tags:** #blue
+- Saying no is the only way to claw back time. Don’t shuffle 12 things so that you can do them in a different order, don’t set timers to move on from this or that. Eliminate 7 of the 12 things, and you’ll have time left for the 5. It’s not time management, it’s obligation elimination. Everything else is snake oil. ([Location 1280](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=1280))
+    - **Tags:** #blue
+- Management scholar Peter Drucker nailed it decades ago when he said “There is nothing so useless as doing efficiently that which should not be done at all.” Bam! ([Location 1285](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=1285))
+    - **Tags:** #favorite, #blue
+- No is easier to do, yes is easier to say. ([Location 1334](https://readwise.io/to_kindle?action=open&asin=B079WV79TK&location=1334))
+    - **Tags:** #blue

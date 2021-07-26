@@ -25,4 +25,4 @@ Or:
 
 1. `docker load < $(nix-build hello-docker.nix)`
 
-See [[85741af9]] for more notes or the [manual](https://nixos.org/guides/building-and-running-docker-images.html) for more information
+See [[docker tools]] for more notes or the [manual](https://nixos.org/guides/building-and-running-docker-images.html) for more information
