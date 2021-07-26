@@ -4,6 +4,7 @@ This is my digital garden. A place to curate my accumulated knowledge.
 
 - [[daily]]
 - [[docker]]
+- [[golang]]
 - [[nix]]
 - [[vim]]
 

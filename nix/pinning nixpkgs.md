@@ -27,4 +27,4 @@ use [niv](https://github.com/nmattia/niv)
 ...
 ```
 #### C
-- [[cb49a6c9]]
+- [[nix-flakes]]
