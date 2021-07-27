@@ -6,6 +6,7 @@ This is my digital garden. A place to curate my accumulated knowledge.
 - [[docker]]
 - [[golang]]
 - [[nix]]
+- [[pulumi]]
 - [[vim]]
 
 [[z:zettels?tag=books]]
