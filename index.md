@@ -2,6 +2,7 @@
 
 This is my digital garden. A place to curate my accumulated knowledge.
 
+- [[azure]]
 - [[daily]]
 - [[docker]]
 - [[golang]]
